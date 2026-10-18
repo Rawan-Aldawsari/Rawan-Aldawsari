@@ -7,6 +7,7 @@
   <a href="https://github.com/Rawan-Aldawsari"><img src="https://img.shields.io/badge/GitHub-Rawan--Aldawsari-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/aldawsarir"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:Raldawsari.cs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+966500099506"><img src="https://img.shields.io/badge/Phone-+966%20500%20099%20506-0F9D58?style=for-the-badge" alt="Phone: +966 500 099 506" /></a>
 </p>
 
 <p align="center">
@@ -174,6 +175,7 @@ I'm always happy to connect with developers, exchange knowledge, and explore opp
   <a href="https://github.com/Rawan-Aldawsari"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
   <a href="https://linkedin.com/in/aldawsarir"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
   <a href="mailto:Raldawsari.cs@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rawan" /></a>
+  <a href="tel:+966500099506"><img src="https://img.shields.io/badge/Phone-Call%20me-0F9D58?style=for-the-badge" alt="Phone" /></a>
 </p>
 
 <p align="center">
