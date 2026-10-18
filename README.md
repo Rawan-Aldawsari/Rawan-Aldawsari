@@ -144,8 +144,8 @@ A project focused on visual search and understanding, designed to help users int
 
 ## 🌐 Languages
 
-- **Arabic:** Native
-- **English:** Working proficiency in progress
+- Arabic
+- English
 
 ---
 
